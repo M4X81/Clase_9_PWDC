@@ -155,3 +155,11 @@ a {
   flex-wrap: wrap;
   align-content: center;
 }
+
+.greeting{
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(98, 44, 63);
+  background-color: rgb(125, 105, 80 , 0.70) ;
+}
